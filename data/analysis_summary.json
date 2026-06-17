@@ -1,0 +1,500 @@
+{
+  "top_rows": 95,
+  "return_cutoff_pct": 28.46,
+  "return_median_pct": 36.99,
+  "return_mean_pct": 43.87,
+  "return_max_pct": 176.12,
+  "market_cap_median_bil": 4.3,
+  "market_cap_lt_5b_count": 57,
+  "market_cap_lt_10b_count": 71,
+  "dollar_volume_median_mil": 95.1,
+  "sector_counts": {
+    "Technology": 31,
+    "Consumer Discretionary": 24,
+    "Health Care": 14,
+    "Industrials": 11,
+    "Finance": 8,
+    "Miscellaneous": 2,
+    "Telecommunications": 2,
+    "Real Estate": 2,
+    "Energy": 1
+  },
+  "sector_lift": [
+    {
+      "sector": "Technology",
+      "top_share_pct": 32.63,
+      "universe_share_pct": 16.37,
+      "lift": 1.99
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "top_share_pct": 25.26,
+      "universe_share_pct": 20.46,
+      "lift": 1.23
+    },
+    {
+      "sector": "Health Care",
+      "top_share_pct": 14.74,
+      "universe_share_pct": 12.91,
+      "lift": 1.14
+    },
+    {
+      "sector": "Industrials",
+      "top_share_pct": 11.58,
+      "universe_share_pct": 15.14,
+      "lift": 0.76
+    },
+    {
+      "sector": "Finance",
+      "top_share_pct": 8.42,
+      "universe_share_pct": 13.97,
+      "lift": 0.6
+    },
+    {
+      "sector": "Miscellaneous",
+      "top_share_pct": 2.11,
+      "universe_share_pct": 0.9,
+      "lift": 2.33
+    },
+    {
+      "sector": "Telecommunications",
+      "top_share_pct": 2.11,
+      "universe_share_pct": 1.43,
+      "lift": 1.47
+    },
+    {
+      "sector": "Real Estate",
+      "top_share_pct": 2.11,
+      "universe_share_pct": 4.2,
+      "lift": 0.5
+    },
+    {
+      "sector": "Energy",
+      "top_share_pct": 1.05,
+      "universe_share_pct": 4.36,
+      "lift": 0.24
+    },
+    {
+      "sector": "Utilities",
+      "top_share_pct": 0.0,
+      "universe_share_pct": 4.3,
+      "lift": 0.0
+    },
+    {
+      "sector": "Basic Materials",
+      "top_share_pct": 0.0,
+      "universe_share_pct": 3.29,
+      "lift": 0.0
+    },
+    {
+      "sector": "Consumer Staples",
+      "top_share_pct": 0.0,
+      "universe_share_pct": 2.66,
+      "lift": 0.0
+    }
+  ],
+  "top_industries": [
+    {
+      "industry": "Semiconductors",
+      "top_count": 9.0,
+      "top_share_pct": 9.47,
+      "universe_share_pct": 3.4,
+      "lift": 2.79
+    },
+    {
+      "industry": "Biotechnology: Pharmaceutical Preparations",
+      "top_count": 7.0,
+      "top_share_pct": 7.37,
+      "universe_share_pct": 5.31,
+      "lift": 1.39
+    },
+    {
+      "industry": "Trucking Freight/Courier Services",
+      "top_count": 5.0,
+      "top_share_pct": 5.26,
+      "universe_share_pct": 0.53,
+      "lift": 9.91
+    },
+    {
+      "industry": "Restaurants",
+      "top_count": 4.0,
+      "top_share_pct": 4.21,
+      "universe_share_pct": 1.06,
+      "lift": 3.96
+    },
+    {
+      "industry": "Finance: Consumer Services",
+      "top_count": 4.0,
+      "top_share_pct": 4.21,
+      "universe_share_pct": 2.18,
+      "lift": 1.93
+    },
+    {
+      "industry": "Industrial Machinery/Components",
+      "top_count": 4.0,
+      "top_share_pct": 4.21,
+      "universe_share_pct": 4.62,
+      "lift": 0.91
+    },
+    {
+      "industry": "Computer Software: Prepackaged Software",
+      "top_count": 4.0,
+      "top_share_pct": 4.21,
+      "universe_share_pct": 4.99,
+      "lift": 0.84
+    },
+    {
+      "industry": "Retail: Computer Software & Peripheral Equipment",
+      "top_count": 3.0,
+      "top_share_pct": 3.16,
+      "universe_share_pct": 0.32,
+      "lift": 9.91
+    },
+    {
+      "industry": "Electronic Components",
+      "top_count": 3.0,
+      "top_share_pct": 3.16,
+      "universe_share_pct": 0.69,
+      "lift": 4.57
+    },
+    {
+      "industry": "Commercial Banks",
+      "top_count": 3.0,
+      "top_share_pct": 3.16,
+      "universe_share_pct": 0.96,
+      "lift": 3.3
+    },
+    {
+      "industry": "Hotels/Resorts",
+      "top_count": 3.0,
+      "top_share_pct": 3.16,
+      "universe_share_pct": 1.06,
+      "lift": 2.97
+    },
+    {
+      "industry": "Electrical Products",
+      "top_count": 3.0,
+      "top_share_pct": 3.16,
+      "universe_share_pct": 1.12,
+      "lift": 2.83
+    },
+    {
+      "industry": "Computer peripheral equipment",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 0.16,
+      "lift": 13.21
+    },
+    {
+      "industry": "Department/Specialty Retail Stores",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 0.69,
+      "lift": 3.05
+    },
+    {
+      "industry": "Services-Misc. Amusement & Recreation",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 1.12,
+      "lift": 1.89
+    },
+    {
+      "industry": "Medical Specialities",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 1.22,
+      "lift": 1.72
+    },
+    {
+      "industry": "Military/Government/Technical",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 1.49,
+      "lift": 1.42
+    },
+    {
+      "industry": "Computer Software: Programming Data Processing",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 1.49,
+      "lift": 1.42
+    },
+    {
+      "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 1.75,
+      "lift": 1.2
+    },
+    {
+      "industry": "EDP Services",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 2.87,
+      "lift": 0.73
+    },
+    {
+      "industry": "Real Estate Investment Trusts",
+      "top_count": 2.0,
+      "top_share_pct": 2.11,
+      "universe_share_pct": 3.61,
+      "lift": 0.58
+    },
+    {
+      "industry": "Consumer Electronics/Video Chains",
+      "top_count": 1.0,
+      "top_share_pct": 1.05,
+      "universe_share_pct": 0.11,
+      "lift": 9.91
+    },
+    {
+      "industry": "Movies/Entertainment",
+      "top_count": 1.0,
+      "top_share_pct": 1.05,
+      "universe_share_pct": 0.11,
+      "lift": 9.91
+    },
+    {
+      "industry": "Multi-Sector Companies",
+      "top_count": 1.0,
+      "top_share_pct": 1.05,
+      "universe_share_pct": 0.16,
+      "lift": 6.6
+    },
+    {
+      "industry": "Medical Electronics",
+      "top_count": 1.0,
+      "top_share_pct": 1.05,
+      "universe_share_pct": 0.16,
+      "lift": 6.6
+    }
+  ],
+  "top_25": [
+    {
+      "symbol": "HYLN",
+      "name": "Hyliion Holdings Corp. Class A Common Stock",
+      "sector": "Consumer Discretionary",
+      "industry": "Construction/Ag Equipment/Trucks",
+      "market_cap_bil": 1.32,
+      "dollar_volume_mil": 34.9,
+      "return_pct": 176.12
+    },
+    {
+      "symbol": "APPS",
+      "name": "Digital Turbine Inc. Common Stock",
+      "sector": "Miscellaneous",
+      "industry": "Multi-Sector Companies",
+      "market_cap_bil": 1.18,
+      "dollar_volume_mil": 62.0,
+      "return_pct": 152.2
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings plc American Depositary Shares",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap_bil": 405.2,
+      "dollar_volume_mil": 6281.7,
+      "return_pct": 83.15
+    },
+    {
+      "symbol": "ALAB",
+      "name": "Astera Labs Inc. Common Stock",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap_bil": 62.93,
+      "dollar_volume_mil": 1972.8,
+      "return_pct": 79.61
+    },
+    {
+      "symbol": "VSH",
+      "name": "Vishay Intertechnology Inc. Common Stock",
+      "sector": "Technology",
+      "industry": "Electrical Products",
+      "market_cap_bil": 8.08,
+      "dollar_volume_mil": 460.4,
+      "return_pct": 76.57
+    },
+    {
+      "symbol": "UMAC",
+      "name": "Unusual Machines Inc. Common Stock",
+      "sector": "Technology",
+      "industry": "Radio And Television Broadcasting And Communications Equipment",
+      "market_cap_bil": 1.17,
+      "dollar_volume_mil": 118.0,
+      "return_pct": 73.02
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology Inc. Common Stock",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap_bil": 244.68,
+      "dollar_volume_mil": 11760.6,
+      "return_pct": 70.03
+    },
+    {
+      "symbol": "VSXY",
+      "name": "Victorias Secret & Co. Common Stock ",
+      "sector": "Consumer Discretionary",
+      "industry": "Clothing/Shoe/Accessory Stores",
+      "market_cap_bil": 6.27,
+      "dollar_volume_mil": 93.7,
+      "return_pct": 69.42
+    },
+    {
+      "symbol": "BRUN",
+      "name": "Boost Run Inc. Class A Common Stock",
+      "sector": "Technology",
+      "industry": "EDP Services",
+      "market_cap_bil": 1.9,
+      "dollar_volume_mil": 51.2,
+      "return_pct": 67.86
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc. Class C Common Stock ",
+      "sector": "Technology",
+      "industry": "Computer Manufacturing",
+      "market_cap_bil": 256.37,
+      "dollar_volume_mil": 2392.2,
+      "return_pct": 65.55
+    },
+    {
+      "symbol": "VPG",
+      "name": "Vishay Precision Group Inc. Common Stock",
+      "sector": "Technology",
+      "industry": "Electrical Products",
+      "market_cap_bil": 1.86,
+      "dollar_volume_mil": 90.0,
+      "return_pct": 63.05
+    },
+    {
+      "symbol": "AGL",
+      "name": "agilon health inc. Common Stock",
+      "sector": "Health Care",
+      "industry": "Misc Health and Biotechnology Services",
+      "market_cap_bil": 1.88,
+      "dollar_volume_mil": 32.6,
+      "return_pct": 62.37
+    },
+    {
+      "symbol": "CORT",
+      "name": "Corcept Therapeutics Incorporated Common Stock",
+      "sector": "Health Care",
+      "industry": "Biotechnology: Pharmaceutical Preparations",
+      "market_cap_bil": 8.9,
+      "dollar_volume_mil": 59.6,
+      "return_pct": 62.06
+    },
+    {
+      "symbol": "HPE",
+      "name": "Hewlett Packard Enterprise Company Common Stock",
+      "sector": "Technology",
+      "industry": "Retail: Computer Software & Peripheral Equipment",
+      "market_cap_bil": 63.79,
+      "dollar_volume_mil": 1132.0,
+      "return_pct": 59.45
+    },
+    {
+      "symbol": "CBRL",
+      "name": "Cracker Barrel Old Country Store Inc Common Stock",
+      "sector": "Consumer Discretionary",
+      "industry": "Restaurants",
+      "market_cap_bil": 1.04,
+      "dollar_volume_mil": 92.7,
+      "return_pct": 56.99
+    },
+    {
+      "symbol": "STUB",
+      "name": "StubHub Holdings Inc. Class A Common Stock",
+      "sector": "Consumer Discretionary",
+      "industry": "Services-Misc. Amusement & Recreation",
+      "market_cap_bil": 4.3,
+      "dollar_volume_mil": 107.5,
+      "return_pct": 56.56
+    },
+    {
+      "symbol": "GENI",
+      "name": "Genius Sports Limited Ordinary Shares",
+      "sector": "Consumer Discretionary",
+      "industry": "Services-Misc. Amusement & Recreation",
+      "market_cap_bil": 1.76,
+      "dollar_volume_mil": 44.8,
+      "return_pct": 53.93
+    },
+    {
+      "symbol": "ARCB",
+      "name": "ArcBest Corporation Common Stock",
+      "sector": "Industrials",
+      "industry": "Trucking Freight/Courier Services",
+      "market_cap_bil": 3.85,
+      "dollar_volume_mil": 69.1,
+      "return_pct": 53.24
+    },
+    {
+      "symbol": "SNOW",
+      "name": "Snowflake Inc. Common Stock",
+      "sector": "Technology",
+      "industry": "Computer Software: Prepackaged Software",
+      "market_cap_bil": 80.68,
+      "dollar_volume_mil": 1793.0,
+      "return_pct": 53.16
+    },
+    {
+      "symbol": "ATEX",
+      "name": "Anterix Inc. Common Stock",
+      "sector": "Telecommunications",
+      "industry": "Telecommunications Equipment",
+      "market_cap_bil": 1.55,
+      "dollar_volume_mil": 80.8,
+      "return_pct": 52.07
+    },
+    {
+      "symbol": "WGS",
+      "name": "GeneDx Holdings Corp. Class A Common Stock",
+      "sector": "Technology",
+      "industry": "Retail: Computer Software & Peripheral Equipment",
+      "market_cap_bil": 1.78,
+      "dollar_volume_mil": 83.9,
+      "return_pct": 51.73
+    },
+    {
+      "symbol": "SEDG",
+      "name": "SolarEdge Technologies Inc. Common Stock",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "market_cap_bil": 3.7,
+      "dollar_volume_mil": 131.1,
+      "return_pct": 50.42
+    },
+    {
+      "symbol": "SLS",
+      "name": "SELLAS Life Sciences Group Inc. Common Stock",
+      "sector": "Health Care",
+      "industry": "Biotechnology: Pharmaceutical Preparations",
+      "market_cap_bil": 1.46,
+      "dollar_volume_mil": 31.8,
+      "return_pct": 50.0
+    },
+    {
+      "symbol": "ACMR",
+      "name": "ACM Research Inc. Class A Common Stock",
+      "sector": "Technology",
+      "industry": "Industrial Machinery/Components",
+      "market_cap_bil": 6.22,
+      "dollar_volume_mil": 211.0,
+      "return_pct": 49.15
+    },
+    {
+      "symbol": "BB",
+      "name": "BlackBerry Limited Common Stock",
+      "sector": "Technology",
+      "industry": "Computer Software: Prepackaged Software",
+      "market_cap_bil": 5.39,
+      "dollar_volume_mil": 203.7,
+      "return_pct": 47.75
+    }
+  ]
+}

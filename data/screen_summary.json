@@ -1,0 +1,19 @@
+{
+  "run_date": "2026-06-13",
+  "nasdaq_fetched_at_utc": "2026-06-14T00:27:25.103822+00:00",
+  "config": {
+    "min_market_cap": 1000000000,
+    "min_dollar_volume": 20000000,
+    "min_price": 3.0,
+    "lookback_days": 31,
+    "history_period": "2mo",
+    "min_history_trading_days": 15
+  },
+  "raw_rows": 7137,
+  "filtered_universe_rows": 1905,
+  "results_with_history_rows": 1895,
+  "top_5pct_rows": 95,
+  "return_95th_percentile_cutoff": 0.2841531919907674,
+  "latest_price_date": "2026-06-12",
+  "start_price_date_mode": "2026-05-12"
+}
