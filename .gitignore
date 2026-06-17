@@ -33,6 +33,19 @@ tmp/
 temp/
 *.log
 
+# Quartz site build artifacts and local caches
+quartz-site/.git/
+quartz-site/.quartz/
+quartz-site/node_modules/
+quartz-site/.wrangler/
+quartz-site/.quartz-cache/
+quartz-site/tsconfig.tsbuildinfo
+quartz-site/prof/
+quartz-site/quartz/cli/tui/dist/
+quartz-site/docs/
+quartz-site/.github/
+quartz-site/desktop-verification.png
+quartz-site/mobile-verification.png
+
 # Large local source documents
 *.pdf
-
