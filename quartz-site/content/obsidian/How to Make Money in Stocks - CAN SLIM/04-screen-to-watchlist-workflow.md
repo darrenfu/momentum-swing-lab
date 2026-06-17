@@ -86,7 +86,7 @@ flowchart TD
 - 止损点清晰。
 - 当前市场状态允许。
 - 突破或回踩有成交量/价格行为支持。
-- 已写 [[05-trade-plan-template]]。
+- 已写 [[obsidian/How to Make Money in Stocks - CAN SLIM/05-trade-plan-template|05-trade-plan-template]]。
 
 ## 建议的 CSV 字段
 
@@ -135,4 +135,3 @@ notes
 ## 你的下一步
 
 先不要马上改很多代码。第一步建议手工给最近一次 top 20 输出补充 CAN SLIM 字段。等你连续两周都按同一字段做复盘，再把稳定字段自动化。
-

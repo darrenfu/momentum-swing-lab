@@ -29,8 +29,8 @@ Source: [Alternative Source](https://github.com/pistolla/gnidart/blob/master/How
 
 输出：
 
-- [ ] 建立本 folder 的阅读追踪：[[08-reading-log]]。
-- [ ] 复制 [[06-templates#历史赢家案例卡]]。
+- [ ] 建立本 folder 的阅读追踪：[[obsidian/How to Make Money in Stocks - Applied CAN SLIM Route/08-reading-log|08-reading-log]]。
+- [ ] 复制 [[obsidian/How to Make Money in Stocks - Applied CAN SLIM Route/06-templates#历史赢家案例卡|06-templates#历史赢家案例卡]]。
 - [ ] 写下当前自己的 5 条交易坏习惯或风险点。
 
 完成标准：知道这本书的目标不是预测，而是建立可重复流程。
@@ -128,7 +128,7 @@ Source: [Alternative Source](https://github.com/pistolla/gnidart/blob/master/How
 输出：
 
 - [ ] 从观察名单选 3-5 个 actionable setup。
-- [ ] 每个 setup 写一份 [[06-templates#交易计划模板]]。
+- [ ] 每个 setup 写一份 [[obsidian/How to Make Money in Stocks - Applied CAN SLIM Route/06-templates#交易计划模板|06-templates#交易计划模板]]。
 - [ ] 不急于实盘，先记录“如果今天执行会怎样”。
 
 重点概念：
@@ -143,7 +143,7 @@ Source: [Alternative Source](https://github.com/pistolla/gnidart/blob/master/How
 
 输出：
 
-- [ ] 用 [[06-templates#周复盘模板]] 复盘一周。
+- [ ] 用 [[obsidian/How to Make Money in Stocks - Applied CAN SLIM Route/06-templates#周复盘模板|06-templates#周复盘模板]] 复盘一周。
 - [ ] 给每个错误打标签：选股错、买点错、市场错、仓位错、卖出错、执行错。
 - [ ] 只选择一个规则做微调。
 
@@ -186,4 +186,3 @@ Source: [Alternative Source](https://github.com/pistolla/gnidart/blob/master/How
 - 删除 thesis 失效或价格行为转弱的候选股。
 - 复盘所有计划：是否按规则买、卖、观望。
 - 只改一个规则，保留证据。
-

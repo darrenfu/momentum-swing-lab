@@ -46,7 +46,7 @@ created: 2026-06-16
 - [ ] 写出你的硬止损规则。
 - [ ] 写出你的盈利卖出规则。
 - [ ] 写出单笔风险比例和最大持仓数量。
-- [ ] 建立 [[05-trade-plan-template]] 的个人版本。
+- [ ] 建立 [[obsidian/How to Make Money in Stocks - CAN SLIM/05-trade-plan-template|05-trade-plan-template]] 的个人版本。
 
 检查标准：看到任何候选股时，先能回答“错了怎么办”，再回答“能赚多少”。
 
@@ -108,9 +108,9 @@ created: 2026-06-16
 输出：
 
 - [ ] 每周只选 3-5 个 actionable setup。
-- [ ] 每个 setup 写 [[05-trade-plan-template]]。
+- [ ] 每个 setup 写 [[obsidian/How to Make Money in Stocks - CAN SLIM/05-trade-plan-template|05-trade-plan-template]]。
 - [ ] 不实盘或小仓位执行，重点记录执行质量。
-- [ ] 周末用 [[06-review-journal-template]] 复盘。
+- [ ] 周末用 [[obsidian/How to Make Money in Stocks - CAN SLIM/06-review-journal-template|06-review-journal-template]] 复盘。
 
 检查标准：连续 10 笔交易后，你能说清楚亏损来自系统正常成本、执行错误，还是规则本身需要改。
 
@@ -139,4 +139,3 @@ created: 2026-06-16
 - 至少 20 个历史图形案例能独立标注买点和失效点。
 - 最近 10 笔模拟或小仓位交易中，大多数亏损都按规则切断。
 - 你能区分“系统正常亏损”和“自己违反规则”。
-

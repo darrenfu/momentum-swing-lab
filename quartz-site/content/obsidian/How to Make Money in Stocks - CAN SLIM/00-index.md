@@ -29,22 +29,22 @@ Source: [Alternative Source](https://github.com/pistolla/gnidart/blob/master/How
 
 ## 笔记地图
 
-- [[01-book-framework]] - 全书结构、每章用途、学习时的主线。
-- [[02-can-slim-checklist]] - CAN SLIM 候选股、买点、卖出和风控检查表。
-- [[03-learning-roadmap]] - 适合你当前阶段的 6 周学习路线。
-- [[04-screen-to-watchlist-workflow]] - 把你现有动量筛选接到 CAN SLIM 观察名单。
-- [[05-trade-plan-template]] - 单笔交易计划模板。
-- [[06-review-journal-template]] - 交易后和周复盘模板。
-- [[07-glossary]] - 中英文核心术语速查。
-- [[08-reading-log]] - 章节阅读和输出追踪。
+- [[obsidian/How to Make Money in Stocks - CAN SLIM/01-book-framework|01-book-framework]] - 全书结构、每章用途、学习时的主线。
+- [[obsidian/How to Make Money in Stocks - CAN SLIM/02-can-slim-checklist|02-can-slim-checklist]] - CAN SLIM 候选股、买点、卖出和风控检查表。
+- [[obsidian/How to Make Money in Stocks - CAN SLIM/03-learning-roadmap|03-learning-roadmap]] - 适合你当前阶段的 6 周学习路线。
+- [[obsidian/How to Make Money in Stocks - CAN SLIM/04-screen-to-watchlist-workflow|04-screen-to-watchlist-workflow]] - 把你现有动量筛选接到 CAN SLIM 观察名单。
+- [[obsidian/How to Make Money in Stocks - CAN SLIM/05-trade-plan-template|05-trade-plan-template]] - 单笔交易计划模板。
+- [[obsidian/How to Make Money in Stocks - CAN SLIM/06-review-journal-template|06-review-journal-template]] - 交易后和周复盘模板。
+- [[obsidian/How to Make Money in Stocks - CAN SLIM/07-glossary|07-glossary]] - 中英文核心术语速查。
+- [[obsidian/How to Make Money in Stocks - CAN SLIM/08-reading-log|08-reading-log]] - 章节阅读和输出追踪。
 
 ## 最短使用路径
 
-1. 先读 [[03-learning-roadmap]]，不要从第一页线性硬啃。
-2. 用 [[02-can-slim-checklist]] 建立你的候选股过滤规则。
-3. 把现有 `screen_us_momentum.py` 的结果接进 [[04-screen-to-watchlist-workflow]]。
-4. 每个候选股必须填一份 [[05-trade-plan-template]]，没有计划就不下单。
-5. 每周用 [[06-review-journal-template]] 复盘，优先复盘“有没有按规则做”，而不是单纯看赚亏。
+1. 先读 [[obsidian/How to Make Money in Stocks - CAN SLIM/03-learning-roadmap|03-learning-roadmap]]，不要从第一页线性硬啃。
+2. 用 [[obsidian/How to Make Money in Stocks - CAN SLIM/02-can-slim-checklist|02-can-slim-checklist]] 建立你的候选股过滤规则。
+3. 把现有 `screen_us_momentum.py` 的结果接进 [[obsidian/How to Make Money in Stocks - CAN SLIM/04-screen-to-watchlist-workflow|04-screen-to-watchlist-workflow]]。
+4. 每个候选股必须填一份 [[obsidian/How to Make Money in Stocks - CAN SLIM/05-trade-plan-template|05-trade-plan-template]]，没有计划就不下单。
+5. 每周用 [[obsidian/How to Make Money in Stocks - CAN SLIM/06-review-journal-template|06-review-journal-template]] 复盘，优先复盘“有没有按规则做”，而不是单纯看赚亏。
 
 ## 核心心法
 

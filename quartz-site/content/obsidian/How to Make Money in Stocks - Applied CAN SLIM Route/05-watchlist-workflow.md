@@ -64,7 +64,7 @@ flowchart LR
 1. 判断市场状态。市场不支持时，只减少动作，不增加理由。
 2. 看行业和主题强弱。
 3. 检查观察名单中是否有股票接近买点。
-4. 对接近买点的股票过 [[04-can-slim-checklist]]。
+4. 对接近买点的股票过 [[obsidian/How to Make Money in Stocks - Applied CAN SLIM Route/04-can-slim-checklist|04-can-slim-checklist]]。
 5. 只有 actionable setup 才写交易计划。
 
 ## 每周流程
@@ -83,4 +83,3 @@ flowchart LR
 - 行业弱，个股只是短期反弹。
 - 止损距离太远，仓位算出来过小或不值得做。
 - 需要说服自己很多遍才敢买。
-
