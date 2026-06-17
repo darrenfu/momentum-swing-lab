@@ -8,7 +8,7 @@ tags:
 
 # momentum-swing-lab Knowledge Graph
 
-This local Quartz 5 site turns the investing Obsidian notes into a browsable static knowledge graph.
+This Quartz 5 site turns the investing Obsidian notes into a browsable static knowledge graph.
 
 > [!warning] Research only
 > These notes are for education, research, and process design. They are not financial advice.
@@ -17,12 +17,14 @@ This local Quartz 5 site turns the investing Obsidian notes into a browsable sta
 
 - [Applied CAN SLIM Route](obsidian/How%20to%20Make%20Money%20in%20Stocks%20-%20Applied%20CAN%20SLIM%20Route/00-index.md)
 - [Original CAN SLIM Study Hub](obsidian/How%20to%20Make%20Money%20in%20Stocks%20-%20CAN%20SLIM/00-index.md)
+- [Qullamaggie Swing Trade 学习地图](obsidian/Swing%20Trading/Qullamaggie%20Swing%20Trading/Qullamaggie%20Swing%20Trade%20学习地图.md)
 
 ## Main Threads
 
 - Growth and momentum investing
 - CAN SLIM study route
 - Swing trading workflow
+- Qullamaggie setup training
 - Watchlist construction
 - Risk, selling rules, and review templates
 
